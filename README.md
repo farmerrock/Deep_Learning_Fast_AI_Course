@@ -12,5 +12,7 @@ We learn today how to classify dogs from cats. Rather than understanding the mat
 
 An important point discussed is how the data for this lesson needs to be structured. This is the most important step for you to complete—if your data is not structured correctly you will not be able to train any models.
 
+[Link to code](https://github.com/farmerrock/Deep_Learning_Fast_AI_Course/blob/master/lesson1.ipynb)
+
 ### Lesson 2 — CONVOLUTIONAL NEURAL NETWORKS
 You will learn more about image classification, covering several core deep learning concepts that are necessary to get good performance: what a learning rate is and how to choose a good one, how to vary your learning rate over time, how to improve your model with data augmentation (including test-time augmentation). We also share practical tips (such as training on smaller images), an 8-step process to train a world-class image classifier, and more information on your hardware setup (including crestle, paperspace, and AWS as options).
