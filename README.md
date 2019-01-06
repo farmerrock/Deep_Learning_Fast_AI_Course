@@ -2,9 +2,9 @@
 
 ### Introduction
 
-Welcome to our fast.ai course. In this course you will be using fast.ai v0.7 in Google Colab to learn how to train a world class deep learning model using K80 GPU for free!
+Welcome to our fast.ai course. In this course you will be using fast.ai v0.7 in Google Colab to learn how to train a world class deep learning model using a K80 GPU for free!
 
-Google Colaboratory is a research project of Google whose main purpose is to help promote machine learning and education. It's a cloud environment that provides Jupyter Notebook services, and can be used without additional settings, and now offers a free GPU, which is awesome! You can use GPU as a backend for free for 12 hours at a time. The 12-hour limit is for a continuous assignment of VM. It means we can use GPU compute even after the end of 12 hours by connecting to a different VM.
+[Google Colaboratory](https://colab.research.google.com/) is a research project of Google whose main purpose is to help promote machine learning and education. It's a cloud environment that provides Jupyter Notebook services, and can be used without additional settings, and now offers a free GPU, which is awesome! You can use GPU as a backend for free for 12 hours at a time. The 12-hour limit is for a continuous assignment of VM. It means we can use GPU compute even after the end of 12 hours by connecting to a different VM.
 
 ### Lesson 1 — RECOGNIZING CATS AND DOGS
 
